@@ -96,7 +96,7 @@ Name, email, address, phone number.
 
 ## APIs
 
-![App Screenshot](https://i.postimg.cc/j2mK9M5c/apis-doc.png)
+![App Screenshot](/public/apis%20doc.PNG)
 
 
 #### Example Product Schema:
@@ -166,7 +166,7 @@ Use platforms like Netlify or Vercel.
 
 
 
-![App Screenshot](https://i.postimg.cc/jdS7r2jJ/structure.png)
+![App Screenshot](/public/structure.PNG)
 
 
 
